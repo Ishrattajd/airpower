@@ -1,0 +1,5 @@
+ident,base_name,name,region,latitude_deg,longitude_deg,elevation_ft,n_runways,longest_runway_ft,longest_surface,type,iso_region,dist_to_zone_km,base_role
+VIBK,Nal (Bikaner),Nal Airport,West,28.070601,73.207199,750.0,1,8960.0,ASP,medium_airport,IN-RJ,94.0,transport
+VIJO,Jodhpur,Jodhpur Airport,West,26.251100540161133,73.04889678955078,717.0,1,9005.0,PEM,medium_airport,IN-RJ,149.0,fighter
+VIJR,Jaisalmer,Jaisalmer Airport,West,26.8887,70.864998,751.0,1,9000.0,CON,medium_airport,IN-RJ,175.0,fighter
+VIUT,Uttarlai,Uttarlai Airport,West,25.813,71.4823,500.0,1,9002.0,CON,small_airport,IN-RJ,213.0,fighter

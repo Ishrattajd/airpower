@@ -1,0 +1,133 @@
+{
+  "frozen_at_utc": "2026-10-08T09:37:31+00:00",
+  "files": {
+    "synthetic/ASSUMPTIONS.txt": {
+      "bytes": 426,
+      "sha256": "b9b5e3385219af2785e7c4e4956bc7572beb436c83d034348afc1ff1e31cdc0f"
+    },
+    "synthetic/aircraft.csv": {
+      "bytes": 4602,
+      "sha256": "dd3dbbc6aadbb1fbc4f16531bc7191c0b4d397872d3fe669cc1b1931b0e6cc39"
+    },
+    "synthetic/aircraft_types.csv": {
+      "bytes": 421,
+      "sha256": "83f0376239ec90c690b8ef5b9bca94d9f007abbec716c84949c10ffd337f2d22"
+    },
+    "synthetic/base_target_distance.csv": {
+      "bytes": 1623,
+      "sha256": "eba5d7fa8b51ddb1c63a556aad9133f23d776767ea522b791355f927f2971132"
+    },
+    "synthetic/bases_scenario.csv": {
+      "bytes": 609,
+      "sha256": "7f9aaf57e7baf60051af856cf289a7ac7db0cf41f87569024f044d114729862a"
+    },
+    "synthetic/crew.csv": {
+      "bytes": 9362,
+      "sha256": "044b6b5d14b8aa07762d6365a9e9c5377d7435cbe591e73f564b672c8261d415"
+    },
+    "synthetic/disruption_events.csv": {
+      "bytes": 3429,
+      "sha256": "f567e84a81be4f639fbdfaf11901f1d1fe43c47f1005a4d5c097b2543f57ad37"
+    },
+    "synthetic/fuel_stock.csv": {
+      "bytes": 76,
+      "sha256": "1be701c678b779204683d54b1ee92794e8f015d333aa9abf5070436add3e4f92"
+    },
+    "synthetic/mission_capability.csv": {
+      "bytes": 448,
+      "sha256": "050b08860505bcc0e32bec7a20f7b0df455b4d3f58406e952e07c450180649a8"
+    },
+    "synthetic/missions.csv": {
+      "bytes": 2195,
+      "sha256": "ab3eca63d4eef8bfa21f0f71c9925cd6ffdf75c2fb24c981a165ed9d4a6644e4"
+    },
+    "synthetic/threats.csv": {
+      "bytes": 616,
+      "sha256": "15ffc5aee6d5eb3e784d3cd347ae57e46ccc88f9d87369fa3d78f87832251825"
+    },
+    "synthetic/weapon_classes.csv": {
+      "bytes": 145,
+      "sha256": "2fab2f9085e747088dfb622acbb375a71f9013ffe7d609620f094f26c9992d95"
+    },
+    "synthetic/weapon_compat.csv": {
+      "bytes": 691,
+      "sha256": "e6a647a03d44d89b4fdb2a1c4ad96e053f3b5855303e3ac7903f61ca2de09f0a"
+    },
+    "synthetic/weapon_stock.csv": {
+      "bytes": 645,
+      "sha256": "95f7e34c760846558818619b5a4df6990c0507558f5fc8c760476cd46ba737cd"
+    },
+    "processed/bases.csv": {
+      "bytes": 4110,
+      "sha256": "fa42858a983360ec88867beca6957b3e9d1f5cb03badd5ef777b21c42374a3c9"
+    },
+    "raw/weather_forecast.csv": {
+      "bytes": 235936,
+      "sha256": "ee61b4b646a633c2d85738704bfe5bef7dc1427d01210039bedb7445bd92291b"
+    },
+    "raw/conflict_events.csv": {
+      "bytes": 809465,
+      "sha256": "418b19be150b7d08a1eb05d264de07c5f5ba163abaea51763e7eb82ac27b0b7f"
+    },
+    "raw/opensky_states.csv": {
+      "bytes": 123980,
+      "sha256": "ac2b38e68c915eec208bf14e77dd7df89d78c897290d7c0e1402771ce770736f"
+    },
+    "raw/airports_india.csv": {
+      "bytes": 91800,
+      "sha256": "e6cd22e3315b32f2b0cd77a931f0559665fa685e7dcd14b7dd7682573a356dbc"
+    },
+    "raw/runways_india.csv": {
+      "bytes": 36416,
+      "sha256": "727fdf28dfedcd9d6f10ef747cbeb8a13b8d2f6a2b70091ad932536c8e4a0350"
+    },
+    "cmapss/RUL_FD001.csv": {
+      "bytes": 745,
+      "sha256": "4180ce627112e628e14d7bc5c9fdfe1e15500e79970db35e12f7e59d006dc2ab"
+    },
+    "cmapss/RUL_FD002.csv": {
+      "bytes": 2062,
+      "sha256": "504c7c8d0efa6d301d4e75910b3faf2a0b496e04c64afc197f80aeccf81975df"
+    },
+    "cmapss/RUL_FD003.csv": {
+      "bytes": 744,
+      "sha256": "d95f690e88223ffbce2f3371a603e7412e50f36dfecdf84062be317a8d739303"
+    },
+    "cmapss/RUL_FD004.csv": {
+      "bytes": 1992,
+      "sha256": "b75e7da6452ad4d13f8472532e1dc599ba2c5a51a20da63861830d3985cdd94a"
+    },
+    "cmapss/test_FD001.csv": {
+      "bytes": 2166179,
+      "sha256": "4912429be589301764e9fa687cf51756773853cefafe47ed58b206fc7a3f15d9"
+    },
+    "cmapss/test_FD002.csv": {
+      "bytes": 5561874,
+      "sha256": "1eee71ad971b6f25d5b5e4f56ca63d805f59fe0293d1e825752618a52016e6ed"
+    },
+    "cmapss/test_FD003.csv": {
+      "bytes": 2746699,
+      "sha256": "13656ee38862ddc2ce71b2b768a6a832e6f047e55762d6605632cdf047ef61c4"
+    },
+    "cmapss/test_FD004.csv": {
+      "bytes": 6747088,
+      "sha256": "78fe5608453715a1d613b1594e4c09254ad5afa7258805f57975378064aa4c21"
+    },
+    "cmapss/train_FD001.csv": {
+      "bytes": 3416587,
+      "sha256": "549b0097e1ae3bc063c5ac96cd2df44c31ab1fd72784d8742665c08ff23ef58f"
+    },
+    "cmapss/train_FD002.csv": {
+      "bytes": 8807885,
+      "sha256": "54e0929c8183146f37e4dbef498a4b89bacd3b27e2ed2092aaa2c5bd91df949d"
+    },
+    "cmapss/train_FD003.csv": {
+      "bytes": 4096184,
+      "sha256": "2b2b0cb9606b855c23a9f6324e9f0683ceefbb1e33f87bebd303a1bf17b8e585"
+    },
+    "cmapss/train_FD004.csv": {
+      "bytes": 10037527,
+      "sha256": "4b6f37cc62569ca671ff668209baa057f27f7f2b387d502c85e5f926726ba18a"
+    }
+  }
+}

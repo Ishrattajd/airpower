@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Secrets: never commit passwords or keys
+.env
+*.key
+# Regenerable data (rebuild with scripts/run_phase1.ps1). The team's single
+# source of truth is data/frozen_v1/, which IS committed.
+data/raw/
+data/processed/
+data/synthetic/

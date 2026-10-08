@@ -1,0 +1,8 @@
+aircraft_type,role,combat_radius_km,max_payload_kg,crew_seats,min_runway_ft,sortie_h,turnaround_h
+Su-30MKI,multirole,1500,8000,2,4000,2.5,2.5
+Rafale,multirole,1850,9500,1,4000,2.5,2.0
+Tejas-Mk1A,light-multirole,500,3500,1,3000,1.5,1.5
+Mirage-2000,multirole,1000,6300,1,4500,2.0,2.0
+MiG-29UPG,air-superiority,700,4500,1,4000,2.0,2.0
+Jaguar,strike,900,4750,1,4500,2.5,2.5
+C-130J,transport,2400,20000,2,3000,4.0,3.0

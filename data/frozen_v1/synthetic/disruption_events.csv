@@ -1,0 +1,33 @@
+event_id,time,event_type,entity_id,base_ident,lat,lon,duration_h,detail
+EV-001,2026-10-08 01:15:00,intel_alert,EVT-497174,,32.94486,70.296,,"replayed real event: State-based conflict, Haiderkhel area of Mir Ali"
+EV-002,2026-10-08 03:30:00,crew_unavailable,CRW-0075,VIUT,,,32.0,illness / fatigue
+EV-003,2026-10-08 03:45:00,intel_alert,EVT-456998,,30.9138,66.497915,,"replayed real event: State-based conflict, 'Shiro Oba' area, in Spin Boldak-Chaman crossing point (on #Durand_Line), in "
+EV-004,2026-10-08 04:00:00,intel_alert,EVT-560830,,32.515556,70.025833,,"replayed real event: State-based conflict, the Purtagai post between the Spinkai and Sararogha areas of the South Waziri"
+EV-005,2026-10-08 07:15:00,aircraft_unserviceable,SYN-JAG-0034,VIJR,,,22.0,technical snag
+EV-006,2026-10-08 09:45:00,aircraft_unserviceable,SYN-JAG-0044,VIJR,,,28.0,technical snag
+EV-007,2026-10-08 14:00:00,runway_closed,VIUT,VIUT,,,4.0,runway damage / FOD
+EV-008,2026-10-08 16:00:00,crew_unavailable,CRW-0052,VIJR,,,43.0,illness / fatigue
+EV-009,2026-10-08 21:45:00,intel_alert,EVT-561257,,32.599208,70.851187,,"replayed real event: State-based conflict, Lakki Marwat, KP"
+EV-010,2026-10-08 22:30:00,intel_alert,EVT-444104,,26.01585,63.88833,,"replayed real event: State-based conflict, Hoshab area 
+
+from Kech to Mastung"
+EV-011,2026-10-09 01:00:00,aircraft_unserviceable,SYN-MIR-0020,VIJO,,,21.1,technical snag
+EV-012,2026-10-09 07:00:00,aircraft_unserviceable,SYN-SU--0062,VIUT,,,26.3,technical snag
+EV-013,2026-10-09 10:00:00,intel_alert,EVT-520796,,32.240003,70.392559,,"replayed real event: One-sided violence, Tank District in Khyber Pakhtunkhwa"
+EV-014,2026-10-09 12:30:00,aircraft_unserviceable,SYN-JAG-0027,VIJR,,,27.1,technical snag
+EV-015,2026-10-09 13:30:00,aircraft_unserviceable,SYN-SU--0059,VIUT,,,33.1,technical snag
+EV-016,2026-10-09 18:00:00,aircraft_unserviceable,SYN-JAG-0041,VIJR,,,34.9,technical snag
+EV-017,2026-10-09 19:45:00,crew_unavailable,CRW-0063,VIJR,,,39.2,illness / fatigue
+EV-018,2026-10-09 22:15:00,runway_closed,VIJO,VIJO,,,4.5,runway damage / FOD
+EV-019,2026-10-10 02:15:00,new_priority_target,NEWTGT-01,,26.3174,70.4679,,SEAD
+EV-020,2026-10-10 03:45:00,intel_alert,EVT-556835,,33.494624,70.379436,,"replayed real event: Non-state conflict, Bagan area of Kurram District in Khyber Pakhtunkhwa"
+EV-021,2026-10-10 04:00:00,intel_alert,EVT-336426,,33.784456,74.106654,,"replayed real event: State-based conflict, Line of Control (LoC) in Degwar sector in Poonch District of Jammu and Kashmi"
+EV-022,2026-10-10 05:45:00,intel_alert,EVT-493082,,29.8,66.85,,"replayed real event: One-sided violence, near Madina Mosque in the Mastung district"
+EV-023,2026-10-10 07:00:00,aircraft_unserviceable,SYN-MIG-0052,VIUT,,,16.1,technical snag
+EV-024,2026-10-10 08:30:00,aircraft_unserviceable,SYN-JAG-0025,VIJR,,,5.9,technical snag
+EV-025,2026-10-10 11:45:00,crew_unavailable,CRW-0074,VIUT,,,43.3,illness / fatigue
+EV-026,2026-10-10 13:45:00,crew_unavailable,CRW-0092,VIUT,,,34.6,illness / fatigue
+EV-027,2026-10-10 15:00:00,new_priority_target,NEWTGT-02,,28.5568,70.999,,SEAD
+EV-028,2026-10-10 19:15:00,intel_alert,EVT-543255,,28.882421,66.531649,,"replayed real event: State-based conflict, Kalat district, Balochistan"
+EV-029,2026-10-10 21:00:00,new_priority_target,NEWTGT-03,,28.3327,73.0526,,SEAD
+EV-030,2026-10-10 22:00:00,aircraft_unserviceable,SYN-JAG-0037,VIJR,,,18.7,technical snag

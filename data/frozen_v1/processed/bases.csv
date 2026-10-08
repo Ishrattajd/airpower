@@ -1,0 +1,38 @@
+ident,base_name,name,region,latitude_deg,longitude_deg,elevation_ft,n_runways,longest_runway_ft,longest_surface,type,iso_region
+VIAG,Agra,Agra Airport / Agra Air Force Station,Central,27.157975,77.961025,551.0,2,9000.0,CON,medium_airport,IN-UP
+VIBL,Bakshi Ka Talab,Bakshi Ka Talab Air Force Station,Central,26.9883,80.893097,385.0,1,8990.0,CON,small_airport,IN-UP
+VIBY,Bareilly,Bareilly Air Force Station,Central,28.4221,79.450798,580.0,1,9000.0,CON,medium_airport,IN-UP
+VIGR,Gwalior,Gwalior Airport,Central,26.29330062866211,78.22779846191406,617.0,1,9000.0,CON,medium_airport,IN-MP
+VIDX,Hindon,Hindon Airport / Hindon Air Force Station,Central,28.707701,77.358902,700.0,1,9000.0,PEM,small_airport,IN-UP
+VEBD,Bagdogra,Bagdogra Airport,East,26.6812,88.328598,412.0,1,9035.0,PEM,large_airport,IN-WB
+VECA,Chabua,Chabua Air Force Station,East,27.4622,95.117699,367.0,1,9003.0,ASP,small_airport,IN-AS
+VE62,Charbatia,Cuttack Airport / Charbatia Air Force Station,East,20.549601,85.886299,115.0,1,9000.0,ASP,small_airport,IN-OR
+VEHX,Hasimara,Hashimara Air Force Station,East,26.698299,89.369102,340.0,1,9000.0,PEM,medium_airport,IN-WB
+VEJT,Jorhat,Jorhat Airport,East,26.730456,94.175416,311.0,1,9000.0,CON,medium_airport,IN-AS
+VEDX,Kalaikunda,Kharagpur Airport / Kalaikunda Air Force Station,East,22.3395,87.2145,200.0,1,9000.0,CON,small_airport,IN-WB
+VEPH,Panagarh,Panagarh Air Force Station,East,23.4743003845,87.4274978638,240.0,1,9000.0,ASP,medium_airport,IN-WB
+VETZ,Tezpur,Tezpur Airport,East,26.7091007232666,92.78469848632812,240.0,1,9010.0,ASP,medium_airport,IN-AS
+VOCX,Car Nicobar,Car Nicobar Air Force Base,Islands/Far-East,9.153056,92.819273,5.0,1,8914.0,CON,medium_airport,IN-AN
+VIAX,Adampur,Adampur Airport,North,31.4338,75.758797,775.0,1,9039.0,ASP,small_airport,IN-PB
+VIAM,Ambala,Ambala Air Force Station,North,30.368099,76.816704,909.0,1,9224.0,ASP,medium_airport,IN-HR
+VIAW,Awantipura,Awantipura Air Force Station,North,33.876598,74.9757,5393.0,1,10500.0,ASP,small_airport,IN-JK
+VIBT,Bhatinda,Bhatinda Air Force Station,North,30.2701,74.755798,662.0,1,9200.0,ASP,medium_airport,IN-PB
+VIHX,Halwara,Halwara International Airport,North,30.748501,75.629799,790.0,1,10007.0,PEM,large_airport,IN-PB
+VILH,Leh,Leh Kushok Bakula Rimpochee Airport,North,34.135899,77.546501,10682.0,1,9040.0,ASP,medium_airport,IN-LA
+VIPK,Pathankot,Pathankot Airport,North,32.233611,75.634444,1017.0,1,8970.0,ASP,medium_airport,IN-PB
+VISP,Sarsawa,Sarsawa Air Force Station,North,29.994303,77.42456,891.0,1,9000.0,CON,small_airport,IN-UP
+VISA,Sirsa,Sirsa Air Force Station,North,29.5606,75.006104,650.0,1,8987.0,ASP,medium_airport,IN-HR
+VISR,Srinagar,Srinagar International Airport,North,33.987099,74.7742,5429.0,1,12090.0,ASP,large_airport,IN-JK
+VI57,Thoise,Thoise Airport,North,34.652599,77.375801,10046.0,1,10000.0,ASP,small_airport,IN-LA
+VIUX,Udhampur,Udhampur Air Force Station,North,32.902152,75.155709,2066.0,1,9000.0,PEM,medium_airport,IN-JK
+VAPO,Pune,Pune International Airport,South,18.5821,73.919701,1942.0,2,10000.0,ASP,large_airport,IN-MM
+VOSX,Sulur,Coimbatore Air Force Station,South,11.0136,77.159698,1250.0,1,8255.0,ASP,small_airport,IN-TN
+VOTJ,Thanjavur,Thanjavur Air Force Station,South,10.723835,79.109457,253.0,2,5680.0,CON,small_airport,IN-TN
+VOYK,Yelahanka,Yelahanka Air Force Station,South,13.135499954223633,77.60600280761719,3045.0,1,7205.0,ASP,small_airport,IN-KA
+VABJ,Bhuj,Bhuj Airport,West,23.2877998352,69.6701965332,268.0,1,8205.0,ASP,medium_airport,IN-GJ
+VIJR,Jaisalmer,Jaisalmer Airport,West,26.8887,70.864998,751.0,1,9000.0,CON,medium_airport,IN-RJ
+VAJM,Jamnagar,Jamnagar Airport,West,22.465499877929688,70.01260375976562,69.0,2,8242.0,CON,medium_airport,IN-GJ
+VIJO,Jodhpur,Jodhpur Airport,West,26.251100540161133,73.04889678955078,717.0,1,9005.0,PEM,medium_airport,IN-RJ
+VIBK,Nal (Bikaner),Nal Airport,West,28.070601,73.207199,750.0,1,8960.0,ASP,medium_airport,IN-RJ
+VA1K,Naliya,Naliya Air Force Station,West,23.2223,68.891296,135.0,1,9000.0,ASP,small_airport,IN-GJ
+VIUT,Uttarlai,Uttarlai Airport,West,25.813,71.4823,500.0,1,9002.0,CON,small_airport,IN-RJ

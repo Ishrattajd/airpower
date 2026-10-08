@@ -1,0 +1,19 @@
+# Install inside a virtual environment using Python 3.11 or 3.12 (see docs/TEAM_GUIDE.md)
+# Phase 1 (data)
+requests>=2.31
+pandas>=2.0
+numpy>=1.26
+# Phase 2 (ML)
+scikit-learn>=1.4
+xgboost>=2.0
+joblib>=1.3
+matplotlib>=3.8
+# Phase 3-5 (optimiser)
+ortools>=9.9
+# Phase 6 (dashboard)
+streamlit>=1.33
+plotly>=5.20
+folium>=0.16
+streamlit-folium>=0.20
+# Testing
+pytest>=8.0
